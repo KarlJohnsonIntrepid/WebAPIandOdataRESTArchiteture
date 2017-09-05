@@ -1,0 +1,16 @@
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Lead.DAL.dll.config
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Lead.DAL.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Lead.DAL.pdb
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\EntityFramework.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Lead.Models.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Lead.Models.pdb
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\EntityFramework.xml
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\obj\Debug\Lead.DAL.csprojResolveAssemblyReference.cache
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\obj\Debug\Lead.DAL.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.DAL\obj\Debug\Lead.DAL.pdb

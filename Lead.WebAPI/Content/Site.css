@@ -1,0 +1,45 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: "Open Sans";
+    line-height: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.jumbotron {
+
+    background-color: white;
+}
+    .navbar-inverse, .btn-primary {
+    background: rgb(219, 33, 39);
+    border-color: rgba(219, 33, 39, 0.8);
+}
+
+
+
+    .navbar-inverse .navbar-brand {
+        color: white;
+        text-transform: none;
+        letter-spacing: 0px;
+        font-weight: 600;
+        font-size:larger
+    }
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: white;
+    }

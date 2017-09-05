@@ -1,0 +1,5 @@
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.Models\bin\Debug\Lead.Models.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.Models\bin\Debug\Lead.Models.pdb
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.Models\obj\Debug\Lead.Models.csprojResolveAssemblyReference.cache
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.Models\obj\Debug\Lead.Models.dll
+C:\Users\KarlJ\Documents\Visual Studio 2017\Projects\LeadManagementAPI\Lead.Models\obj\Debug\Lead.Models.pdb
